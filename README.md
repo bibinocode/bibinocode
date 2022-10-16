@@ -2,6 +2,23 @@
 <pre>
    <strong>Hi, I am 阿逼!👋 </strong>
 </pre> 
+<pre>
+   
+### ⭐️ &nbsp;Github Star
+
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bibinocode&count_private=true&show_icons=true"/>
+
+
+### 🛠 &nbsp;Tech Stack
+
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:2553400824@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2553400824@qq.com-blue?style=flat-square&logo=gmail"></a>
+
+
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/bibinocode/count.svg" />
+</pre>
 <br>
 <br>
 <br>
@@ -26,18 +43,3 @@
 <br>
 <br>
 <br>
-
-### ⭐️ &nbsp;Github Star
-
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bibinocode&count_private=true&show_icons=true"/>
-
-
-### 🛠 &nbsp;Tech Stack
-
-
-### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:2553400824@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2553400824@qq.com-blue?style=flat-square&logo=gmail"></a>
-
-
-### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/bibinocode/count.svg" />
