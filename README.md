@@ -16,9 +16,8 @@
         <img alt="juejin"
             src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-2022%E5%B9%B4%E5%BA%A6%E6%91%B8%E9%B1%BC%E4%BD%9C%E8%80%851%E5%90%8D-%23007fff" />
     </a>
-     <a href="https://gitee.com/lmght">
-       <img alt="gitee" src="https://cn-assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico">
-    </a>
+     <a href="mailto:2553400824@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2553400824@qq.com-blue?style=flat-square&logo=gmail"></a>
+     <img src="https://profile-counter.glitch.me/bibinocode/count.svg" />
 </p>
 
 <p>
@@ -33,16 +32,6 @@
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bibinocode&count_private=true&show_icons=true"/>
 
-
-### 🛠 &nbsp;Tech Stack
-
-
-### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:2553400824@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2553400824@qq.com-blue?style=flat-square&logo=gmail"></a>
-
-
-### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/bibinocode/count.svg" />
 <br>
 <br>
 <br>
