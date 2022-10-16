@@ -27,11 +27,6 @@
 
 <h1 align="center">Hi 👋, I'm 阿逼</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
-   
-### ⭐️ &nbsp;Github Star
-
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bibinocode&count_private=true&show_icons=true"/>
-
 <br>
 <br>
 <br>
