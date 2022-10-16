@@ -1,16 +1,7 @@
    
-     <strong>Hi, I am 阿逼!👋 </strong>
-
-<strong>A full stack developer from China🇨🇳. </strong>
-
+<pre>
+   <strong>Hi, I am 阿逼!👋 </strong>
 </pre> 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -26,11 +17,11 @@
 <br>
 <br>
 <p align="center">
-<a href="https://twitter.com/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dephraiim" height="20" width="20" /></a>
-<a href="https://instagram.com/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
-  <a href="https://dev.to/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://github.com/bibinocode/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="阿逼" height="20" width="20" /></a>
+<a href="https://github.com/bibinocode/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="阿逼" height="20" width="20" /></a>
+<a href="https://github.com/bibinocode/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="阿逼" height="20" width="20" /></a>
+<a href="https://github.com/bibinocode/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="阿逼" height="20" width="20" /></a>
+  <a href="https://github.com/bibinocode/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="阿逼" height="20" width="20" /></a>
 </p>
 <br>
 <br>
@@ -42,15 +33,10 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
-![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:648941183@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2553400824@qq.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:2553400824@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2553400824@qq.com-blue?style=flat-square&logo=gmail"></a>
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
