@@ -20,7 +20,7 @@
 </p>
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:bibinocode" alt=":bibinocode" /></a>
+  <a href="https://count.getloli.com/" align="left"><img src="https://count.getloli.com/get/@:bibinocode" alt=":bibinocode" /></a>
    <img src="https://profile-counter.glitch.me/bibinocode/count.svg" align="center"/>
   <img src="https://weather-icon.journeyad.repl.co/@zhejiang?v=1" align="right">
 </p>
