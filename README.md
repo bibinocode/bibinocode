@@ -2,7 +2,7 @@
 <pre>
    <strong>Hi, I am 阿逼!👋 </strong>
 </pre> 
-<pre>
+
    
 ### ⭐️ &nbsp;Github Star
 
@@ -18,7 +18,6 @@
 
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/bibinocode/count.svg" />
-</pre>
 <br>
 <br>
 <br>
