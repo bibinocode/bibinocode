@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="36" viewBox="0 0 158 36">
+  <rect x="0.5" y="0.5" width="157" height="35" rx="0" fill="#161616" stroke="#555555"/>
+  <g stroke="#FFFFFF" stroke-width="1.6" fill="none" stroke-linecap="round"><rect x="13" y="12" width="22" height="15" rx="3"/><path d="M19 8L23 12M30 8L26 12M19 18V21M29 18V21"/></g>
+  <text x="47" y="23" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="13">BILIBILI ↗</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="36" viewBox="0 0 158 36">
+  <rect x="0.5" y="0.5" width="157" height="35" rx="0" fill="#161616" stroke="#555555"/>
+  <path d="M15 11L29 25H25L11 11ZM28 11L13 25" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+  <path d="M43 10V26" stroke="#555555"/>
+  <text x="55" y="23" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="13">@bbnocode ↗</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="40" viewBox="0 0 158 40">
+  <title>Vue 3</title>
+  <rect x="0.5" y="0.5" width="157" height="39" fill="#161616" stroke="#555555"/>
+  <g transform="translate(13 9) scale(0.916667)" fill="#42B883"><path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z"/></g>
+  <path d="M47 10V30" stroke="#555555"/>
+  <text x="60" y="25" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Vue 3</text>
+</svg>
