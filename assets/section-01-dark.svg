@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="22" viewBox="0 0 80 22" fill="none">
+  <title>01 / 开发</title>
+  <defs>
+    <pattern id="hatch" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="1" height="4" fill="#B6B1A9"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="1.5" width="28" height="19" stroke="#55514B"/>
+  <rect x="29" y="2" width="12" height="18" fill="url(#hatch)"/>
+  <path d="M28.5 1.5H40.5V20.5H28.5" stroke="#55514B"/>
+  <g fill="#B6B1A9" font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,Microsoft YaHei,monospace" font-size="12" font-weight="400">
+    <text x="14.5" y="15" text-anchor="middle" style="font-variant-numeric:tabular-nums">01</text>
+    <text x="51" y="15">开发</text>
+  </g>
+</svg>

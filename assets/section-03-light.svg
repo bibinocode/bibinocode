@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="22" viewBox="0 0 80 22" fill="none">
+  <title>03 / 探索</title>
+  <defs>
+    <pattern id="hatch" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="1" height="4" fill="#B6B1A9"/>
+    </pattern>
+  </defs>
+  <rect x="0.5" y="1.5" width="28" height="19" stroke="#D0CCC5"/>
+  <rect x="29" y="2" width="12" height="18" fill="url(#hatch)"/>
+  <path d="M28.5 1.5H40.5V20.5H28.5" stroke="#D0CCC5"/>
+  <g fill="#65605A" font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,Microsoft YaHei,monospace" font-size="12" font-weight="400">
+    <text x="14.5" y="15" text-anchor="middle" style="font-variant-numeric:tabular-nums">03</text>
+    <text x="51" y="15">探索</text>
+  </g>
+</svg>
